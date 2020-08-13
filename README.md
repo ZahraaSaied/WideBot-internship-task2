@@ -1,1 +1,1 @@
-# WideBot-internship-task2
+This repository holds my coding work for WideBot internship task 2 - Data Engineer track - August 2020
